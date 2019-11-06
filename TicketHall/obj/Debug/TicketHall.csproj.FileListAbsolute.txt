@@ -1,0 +1,7 @@
+C:\Users\BAALI0\source\repos\TicketHall\TicketHall\bin\Debug\TicketHall.exe.config
+C:\Users\BAALI0\source\repos\TicketHall\TicketHall\bin\Debug\TicketHall.exe
+C:\Users\BAALI0\source\repos\TicketHall\TicketHall\bin\Debug\TicketHall.pdb
+C:\Users\BAALI0\source\repos\TicketHall\TicketHall\obj\Debug\TicketHall.csprojAssemblyReference.cache
+C:\Users\BAALI0\source\repos\TicketHall\TicketHall\obj\Debug\TicketHall.csproj.CoreCompileInputs.cache
+C:\Users\BAALI0\source\repos\TicketHall\TicketHall\obj\Debug\TicketHall.exe
+C:\Users\BAALI0\source\repos\TicketHall\TicketHall\obj\Debug\TicketHall.pdb
